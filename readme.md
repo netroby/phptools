@@ -61,3 +61,9 @@ php phpcpd.phar .
 ```
 
 检测当前目录.以及其子目录的代码是否包含有拷贝粘贴代码
+
+## idea适用的代码格式化风格配置文件，符合PSR1/PSR2的要求
+
+idea-codestyle/settings.jar
+
+用idea的导入功能导入重启后生效
